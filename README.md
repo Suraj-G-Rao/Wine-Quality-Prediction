@@ -158,6 +158,43 @@ The model is evaluated using:
 
 All metrics are logged to MLflow for tracking and comparison.
 
+## 🎓 Skills & Knowledge Gained
+
+### Machine Learning & Data Science
+- **End-to-End ML Pipeline Development**: Building complete machine learning workflows from data ingestion to deployment
+- **Data Preprocessing & Feature Engineering**: Handling missing values, scaling, and feature transformation
+- **Model Training & Evaluation**: Implementing classification algorithms and performance metrics
+- **Experiment Tracking**: Using MLflow for model versioning, parameter tracking, and reproducibility
+
+### Software Engineering & Architecture
+- **Modular Code Design**: Creating maintainable, reusable components with clear separation of concerns
+- **Configuration Management**: Implementing YAML-based configuration systems for flexible parameter management
+- **Data Validation**: Schema-based data quality checks and validation pipelines
+- **Design Patterns**: Applying software design patterns for scalable ML systems
+
+### Web Development & Deployment
+- **Flask Web Applications**: Building RESTful APIs and web interfaces for ML models
+- **Model Deployment**: Serving machine learning models through web endpoints
+- **Template Integration**: Using Jinja2 templates for dynamic web content
+- **API Development**: Creating robust prediction endpoints with error handling
+
+### DevOps & MLOps
+- **Version Control**: Git workflow management with branching strategies
+- **Dependency Management**: Virtual environments and requirements.txt management
+- **Model Serialization**: Using joblib for efficient model persistence
+- **Containerization**: Understanding Docker concepts for application deployment
+
+### Technical Tools & Libraries
+- **Data Manipulation**: Advanced pandas operations and numpy array handling
+- **Visualization**: Creating insightful plots with matplotlib
+- **File Handling**: Working with various file formats (CSV, YAML, JSON)
+- **Error Handling**: Implementing robust exception handling and logging
+
+### Domain Knowledge
+- **Wine Chemistry**: Understanding physicochemical properties that affect wine quality
+- **Feature Importance**: Identifying key factors that influence wine quality ratings
+- **Data Analysis**: Exploratory data analysis and feature correlation analysis
+
 ## 🔧 Technologies Used
 
 - **Machine Learning**: scikit-learn
